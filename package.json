@@ -1,0 +1,17 @@
+{
+  "name": "vendingmachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^24.9.0"
+  },
+  "dependencies": {
+    "eslint-config-redacademy": "^0.3.5"
+  }
+}
